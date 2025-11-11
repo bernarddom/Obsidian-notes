@@ -46,3 +46,8 @@ dotnet tool install -g dotnet-ef
 ```
 dotnet ef migrations add InitialCreate -o Data/Migrations
 ```
+
+##### Update database:
+```
+dotnet ef database update
+```

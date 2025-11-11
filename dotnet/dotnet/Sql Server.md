@@ -31,3 +31,12 @@ if (app.Environment.IsDevelopment())
 }
 ```
 
+#### List databases:
+```
+SELECT name from sys.databases;
+```
+
+#### List tables from database:
+```
+SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'MyApiDb';
+```
