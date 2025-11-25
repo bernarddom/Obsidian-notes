@@ -9,3 +9,7 @@ sudo docker start sqlserver
 ```
 
 #### Execute bash on a docker container
+```
+sudo docker exec -it sqlserver "bash"
+```
+

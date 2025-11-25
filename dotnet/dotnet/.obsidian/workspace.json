@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet Core.md",
+                "file": "Angular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DotNet Core"
+              "title": "Angular"
             }
           }
         ]
@@ -172,8 +172,9 @@
   "active": "f6fad09c5df17a3a",
   "lastOpenFiles": [
     "Sql Server.md",
-    "Docker.md",
+    "Angular.md",
     "DotNet Core.md",
+    "Docker.md",
     "Untitled.base",
     "Untitled.canvas",
     "Hola"

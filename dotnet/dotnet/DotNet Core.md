@@ -1,4 +1,9 @@
 ### Database config ([[Sql Server]])
+
+#### Generate gitignore file:
+```
+dotnet new gitignore
+```
 #### On the `appsettings.json`:
 
 ```
