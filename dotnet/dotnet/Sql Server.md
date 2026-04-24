@@ -16,18 +16,10 @@ sudo docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bernardo1->" \
 #### List databases:
 ```
 SELECT name from sys.databases;
+GO
 ```
 
 #### List tables from database:
 ```
 SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'MyApiDb';
-```
-
-## CORS
-### Configure
-#### On Program.cs
-```
-builder.Services.AddCors();
-
-app.UseCors(options => options.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200", "https://localhost:4200"));
 ```
