@@ -1,4 +1,7 @@
-
+[[Project Structure]]
+[[LIFT]]
+[[Signals]]
+[[Components]]
 ### Install angular-cli
 ```
 npm install -g @angular/cli@next 
