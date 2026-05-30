@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "994b1996e984420c",
+    "id": "4c4b19cebf1a9ce0",
     "type": "split",
     "children": [
       {
-        "id": "e32c39a7b3ece5ae",
+        "id": "fa879f01b8033454",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9931b2c7bdc220",
+            "id": "aa551fed528ad981",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,28 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9f200d04d3f79d8c",
+    "id": "d304b279ba8deb46",
     "type": "split",
     "children": [
       {
-        "id": "07aaecfbbab01a53",
+        "id": "db4e5b07f0cc02ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1e6c2248a6db749c",
+            "id": "0bbc636a1b4b3f58",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
             }
           },
           {
-            "id": "b69614812d331461",
+            "id": "082bca6ad8ecef06",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,17 +57,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
-            "id": "998aceb1c47dc4be",
+            "id": "52597fc961380b1c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "c7a3855fe99ed62b",
+    "id": "1188ac35790c6d1d",
     "type": "split",
     "children": [
       {
-        "id": "0c4f46df505685ca",
+        "id": "34628ec5e4ba44d9",
         "type": "tabs",
         "children": [
           {
-            "id": "feb7287913cd031b",
+            "id": "9d7ab959c7999bb6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -99,24 +99,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "8494e8a35e9a49c3",
+            "id": "ed6bd36534d7c3e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bienvenido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes de Bienvenido"
             }
           },
           {
-            "id": "5935a8cbc566a782",
+            "id": "d3a5e83dec117938",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,21 +128,36 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "4d5106bbf6c9d41c",
+            "id": "4c7d9628d3012e2b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "10afe34e3793eee0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bienvenido.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema de Bienvenido"
             }
           }
         ]
@@ -162,6 +178,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ba9931b2c7bdc220",
-  "lastOpenFiles": []
+  "active": "aa551fed528ad981",
+  "lastOpenFiles": [
+    "README.md",
+    "Bienvenido.md",
+    "Sin título 1.base",
+    "Sin título.base",
+    "Sin título.md",
+    "Sin título.canvas",
+    "2026-05-30.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Swagger.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Tools.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Solutions.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Passwords.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Extension members.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Entity Framework.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Entities.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Database config.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Controllers.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/CORS.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet/Authentication.md",
+    "Obsidian-notes/dotnet/dotnet/Angular/Signals.md",
+    "Obsidian-notes/dotnet/dotnet/Angular/Project Structure.md",
+    "Obsidian-notes/dotnet/dotnet/Angular/Local Storage.md",
+    "Obsidian-notes/dotnet/dotnet/Angular/LIFT.md",
+    "Obsidian-notes/dotnet/dotnet/Angular/Components.md",
+    "Obsidian-notes/dotnet/dotnet/Sql Server.md",
+    "Obsidian-notes/dotnet/dotnet/Dotnet",
+    "Obsidian-notes/dotnet/dotnet/DotNet Core.md",
+    "Obsidian-notes/dotnet/dotnet/Docker.md",
+    "Obsidian-notes/dotnet/dotnet/Angular.md",
+    "Obsidian-notes/dotnet/dotnet/Angular",
+    "Obsidian-notes/dotnet/dotnet",
+    "Obsidian-notes/dotnet",
+    "Obsidian-notes/data_science/DataScience/Welcome.md",
+    "Obsidian-notes/data_science/DataScience",
+    "Obsidian-notes/data_science",
+    "Obsidian-notes/README.md",
+    "Obsidian-notes"
+  ]
 }
