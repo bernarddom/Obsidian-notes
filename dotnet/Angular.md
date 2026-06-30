@@ -1,5 +1,7 @@
 [[Project Structure]]
 [[LIFT]]
+[[HTTPS]]
+[[Local Storage]]
 [[Signals]]
 [[Components]]
 ### Install angular-cli
@@ -31,26 +33,6 @@ this.http.get("https://localhost:5001/api/members").subscribe({
 	error: error => console.log(error),
 	complete: () => console.log("Completed the http request")
 })
-```
-
-# Running angular with https
-### Create ssl directory inside the project:
-```
-mkdir ssl
-```
-
-### Create certificate inside ssl folder:
-```
-mkcert localhost
-```
-
-### Add these lines in the "serve" object inside the 'angular.json' file:
-```
-"options": {
-	"ssl": true,
-	"sslCert": "./ssl/localhost.pem",
-	"sslKey": "./ssl/localhost-key.pem"
-},
 ```
 
 # Signals

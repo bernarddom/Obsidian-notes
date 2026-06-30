@@ -2,10 +2,10 @@
   "editor:insert-codeblock": [
     {
       "modifiers": [
-        "Mod",
+        "Alt",
         "Shift"
       ],
-      "key": "B"
+      "key": "C"
     }
   ]
 }

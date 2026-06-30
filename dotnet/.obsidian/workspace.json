@@ -11,10 +11,14 @@
             "id": "ba9931b2c7bdc220",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Spring Boot.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Spring Boot"
             }
           }
         ]
@@ -163,5 +167,28 @@
     }
   },
   "active": "ba9931b2c7bdc220",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Angular.md",
+    "Spring Boot.md",
+    "DotNet Core.md",
+    "Sql Server.md",
+    "Postgresql.md",
+    "Postgresql/Important commands.md",
+    "Postgresql/First configuration.md",
+    "Dotnet/Extension members.md",
+    "Dotnet/Entity Framework.md",
+    "Dotnet/Entities.md",
+    "Postgresql",
+    "Dotnet/CORS.md",
+    "Angular/HTTPS.md",
+    "Angular/Components.md",
+    "Dotnet/Tools.md",
+    "Dotnet/Swagger.md",
+    "Dotnet/Solutions.md",
+    "Dotnet/Passwords.md",
+    "Dotnet/Database config.md",
+    "Dotnet/Controllers.md",
+    "Dotnet/Authentication.md",
+    "Docker.md"
+  ]
 }
