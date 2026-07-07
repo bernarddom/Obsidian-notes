@@ -4,6 +4,7 @@
 [[Local Storage]]
 [[Signals]]
 [[Components]]
+[[Routing]]
 ### Install angular-cli
 ```
 npm install -g @angular/cli@next 
