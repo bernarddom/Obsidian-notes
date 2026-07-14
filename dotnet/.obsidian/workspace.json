@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Dependency Injection/Setter Injection.md",
+                "file": "Angular/Route guards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setter Injection"
+              "title": "Route guards"
             }
           }
         ]
@@ -168,9 +168,13 @@
   },
   "active": "ba9931b2c7bdc220",
   "lastOpenFiles": [
-    "Spring/Dependency Injection/Method injection.md",
-    "Spring/Dependency Injection/Setter Injection.md",
     "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
+    "Angular/Route guards.md",
+    "Spring/Bean profiles.md",
+    "Spring/Environment.md",
+    "Angular.md",
+    "Spring/Dependency Injection/Setter Injection.md",
+    "Spring/Dependency Injection/Method injection.md",
     "Spring/Dependency Injection/@Qualifier.md",
     "Spring/Dependency Injection/@Primary.md",
     "Spring/Dependency Injection/Field Injection.md",
@@ -185,8 +189,6 @@
     "Pytorch",
     "Spring/Good practices.md",
     "Spring/@Value Annotation.md",
-    "Spring/Bean profiles.md",
-    "Spring/Environment.md",
     "Angular/Toasts.md",
     "Spring Boot/Spring Data JPA/Ids.md",
     "Spring Boot/Spring Data JPA/Many-to-many relationships.md",
@@ -198,8 +200,6 @@
     "Angular/Components.md",
     "Spring Boot/Spring Data JPA",
     "Spring Boot",
-    "Angular/Routing.md",
-    "Angular.md",
     "Postgresql"
   ]
 }
