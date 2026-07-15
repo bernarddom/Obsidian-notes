@@ -4,6 +4,7 @@
 public class DefaultPaymentService implements PaymentService {}
 ```
 
+To set a bean only for a specific profile:
 ```
 @Configuration
 public class ApplicationConfig {
@@ -13,6 +14,7 @@ public class ApplicationConfig {
 }
 ```
 
+The `@Profile` annotation can be used also on the class level
 ### Activation
 
 #### Programatically
@@ -38,8 +40,24 @@ spring:
 		active: cloud
 ```
 
-`application.properties`
+Setting the active profile on `application.properties`
 ```
 spring.profiles.active=cloud
 ```
 
+Then creating an `application-cloud.properties` file:
+```
+my.custom.property=Hello cloud
+```
+
+It can also be set on the application:
+```
+@SpringBootApplication
+public class ExampleApplication {
+	public static void main(String[] args){
+		varr app = new SpringApplication(ExampleApplication.class);
+		app.setDefaultProperties(Collections.singletonMap("spring.profiles.active", "dev"));
+		var ctx = app.run(args);
+	}
+}
+```

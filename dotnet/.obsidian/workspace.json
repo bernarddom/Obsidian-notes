@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Route guards.md",
+                "file": "Spring/Dependency Injection/Constructor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Route guards"
+              "title": "Constructor"
             }
           }
         ]
@@ -169,8 +169,14 @@
   "active": "ba9931b2c7bdc220",
   "lastOpenFiles": [
     "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
+    "Spring Boot/Services.md",
+    "Spring Boot/Repositories.md",
+    "Spring/Spring Rest/Rest.md",
+    "Spring/Sin título 2.md",
+    "Spring/Spring Rest",
+    "Spring/Sin título 1.md",
+    "Spring/Profiles.md",
     "Angular/Route guards.md",
-    "Spring/Bean profiles.md",
     "Spring/Environment.md",
     "Angular.md",
     "Spring/Dependency Injection/Setter Injection.md",
@@ -191,13 +197,8 @@
     "Spring/@Value Annotation.md",
     "Angular/Toasts.md",
     "Spring Boot/Spring Data JPA/Ids.md",
-    "Spring Boot/Spring Data JPA/Many-to-many relationships.md",
-    "Spring/Bean Scope.md",
-    "Spring/Sin título.md",
-    "Spring/Dependency Injection/Constructor.md",
     "Spring/Dependency Injection",
     "Spring",
-    "Angular/Components.md",
     "Spring Boot/Spring Data JPA",
     "Spring Boot",
     "Postgresql"

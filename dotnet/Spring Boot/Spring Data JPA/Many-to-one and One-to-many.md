@@ -1,3 +1,4 @@
+It is recommended to use the `@ManyToOne` unless necessary
 ```
 @Entity
 @Table(name="CART")
