@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/App Initialization.md",
+                "file": "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App Initialization"
+              "title": "Many-to-one and One-to-many"
             }
           }
         ]
@@ -169,6 +169,7 @@
   "active": "ba9931b2c7bdc220",
   "lastOpenFiles": [
     "Spring Boot/Controller.md",
+    "2026-07-22.md",
     "Angular/App Initialization.md",
     "Spring/Spring Rest/RestController.md",
     "Spring Boot/Mappers.md",
@@ -195,7 +196,6 @@
     "Pytorch/Basic tensor functions.md",
     "Neural networks",
     "Pytorch.md",
-    "Sin título.md",
     "Pytorch",
     "Spring/Dependency Injection",
     "Spring",

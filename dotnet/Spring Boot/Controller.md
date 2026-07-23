@@ -21,3 +21,12 @@
         return ResponseEntity.ok().body(brands);
     }
 ```
+
+#### @RequestMapping
+```
+@RestController  
+@RequestMapping("/api/venue")  
+public class VenueController {  
+	...  
+}
+```
