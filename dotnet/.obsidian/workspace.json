@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba2b17f2a8b30cec",
+        "id": "b9c3077df7222ae4",
         "type": "tabs",
         "children": [
           {
-            "id": "3979353aabc7d486",
+            "id": "3850019ad2d04ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/Data Validation.md",
+                "file": "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Validation"
+              "title": "Many-to-one and One-to-many"
             }
           }
         ]
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes de Many-to-one and One-to-many"
             }
           },
           {
@@ -166,8 +167,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3979353aabc7d486",
+  "active": "3850019ad2d04ba2",
   "lastOpenFiles": [
+    "Spring Boot/Spring Data JPA/Ddl-auto Config.md",
+    "Spring/Profiles.md",
+    "Spring/Environment.md",
+    "Enum.md",
+    "Sin título.base",
+    "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
+    "Spring Boot/Data Validation.md",
+    "Sin título 1.md",
+    "Sin título.md",
     "Spring/Sin título.md",
     "Pytorch.md",
     "Spring Boot.md",
@@ -178,10 +188,8 @@
     "Dotnet/Passwords.md",
     "DotNet Core.md",
     "Angular.md",
-    "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
     "Postgresql.md",
     "Sql Server.md",
-    "Spring Boot/Data Validation.md",
     "Spring Boot/Controller.md",
     "2026-07-22.md",
     "Angular/App Initialization.md",
@@ -189,13 +197,7 @@
     "Spring Boot/Mappers.md",
     "Spring/Spring Rest/DTOs.md",
     "Spring/Dependency Injection/Constructor.md",
-    "Spring Boot/Services.md",
-    "Spring Boot/Repositories.md",
-    "Spring/Sin título 2.md",
     "Spring/Spring Rest",
-    "Spring/Sin título 1.md",
-    "Spring/Profiles.md",
-    "Angular/Route guards.md",
     "Neural networks",
     "Pytorch",
     "Spring/Dependency Injection",
