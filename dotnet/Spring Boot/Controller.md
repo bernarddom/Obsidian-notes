@@ -30,3 +30,21 @@ public class VenueController {
 	...  
 }
 ```
+
+#### @RequestParam
+```
+public ResponseEntity<PagedResponse<CountryResponse>> getCountries(  
+        @RequestParam(  
+                value = "page",  
+                required = false,  
+                defaultValue = AppConstants.DEFAULT_PAGE_NUMBER  
+        )   Integer page,  
+        @RequestParam(  
+                value = "size",  
+                required = false,  
+                defaultValue = AppConstants.DEFAULT_PAGE_SIZE  
+        )   Integer size  
+) {  
+    return ResponseEntity.ok().body(this.countryService.getCountries(page, size));  
+}
+```

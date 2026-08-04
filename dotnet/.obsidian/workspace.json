@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
+                "file": "Spring/Paging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Many-to-one and One-to-many"
+              "title": "Paging"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
+                "file": "Angular/App Initializer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Many-to-one and One-to-many"
+              "title": "Enlaces entrantes de App Initializer"
             }
           },
           {
@@ -169,15 +171,18 @@
   },
   "active": "3850019ad2d04ba2",
   "lastOpenFiles": [
+    "Spring Boot/Controller.md",
+    "Spring/Paging.md",
+    "Angular/App Initializer.md",
+    "Sin título 1.md",
+    "Sin título.base",
+    "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
+    "Sin título.md",
     "Spring Boot/Spring Data JPA/Ddl-auto Config.md",
     "Spring/Profiles.md",
     "Spring/Environment.md",
     "Enum.md",
-    "Sin título.base",
-    "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
     "Spring Boot/Data Validation.md",
-    "Sin título 1.md",
-    "Sin título.md",
     "Spring/Sin título.md",
     "Pytorch.md",
     "Spring Boot.md",
@@ -190,13 +195,10 @@
     "Angular.md",
     "Postgresql.md",
     "Sql Server.md",
-    "Spring Boot/Controller.md",
     "2026-07-22.md",
-    "Angular/App Initialization.md",
     "Spring/Spring Rest/RestController.md",
     "Spring Boot/Mappers.md",
     "Spring/Spring Rest/DTOs.md",
-    "Spring/Dependency Injection/Constructor.md",
     "Spring/Spring Rest",
     "Neural networks",
     "Pytorch",

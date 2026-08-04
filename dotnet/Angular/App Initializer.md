@@ -1,5 +1,5 @@
 
-Used to initialize some data before the app starts
+Used to initialize some data during the app bootstrap
 
 ```
 export class InitService {
