@@ -5,6 +5,9 @@
 [[Signals]]
 [[Components]]
 [[Routing]]
+[[Interceptors]]
+[[Toasts]]
+[[ViewTransitions]]
 ### Install angular-cli
 ```
 npm install -g @angular/cli@next 
