@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/Spring Data JPA/Ids.md",
+                "file": "Spring Boot/Models/Audit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ids"
+              "title": "Audit"
             }
           }
         ]
@@ -171,6 +171,11 @@
   },
   "active": "3850019ad2d04ba2",
   "lastOpenFiles": [
+    "Spring/Sin título.md",
+    "Spring Boot/Models/Audit.md",
+    "Spring Boot/Models",
+    "Spring Boot/Sin título.md",
+    "Spring Boot/Spring Data JPA/Ids.md",
     "Spring Boot/Spring Data JPA/Many-to-one and One-to-many.md",
     "Spring Boot/Data Validation.md",
     "Spring Boot/Project properties.md",
@@ -194,18 +199,13 @@
     "Sin título.md",
     "Spring Boot/Spring Data JPA/Ddl-auto Config.md",
     "Enum.md",
-    "Spring/Sin título.md",
     "Pytorch.md",
-    "Spring Boot.md",
-    "Docker.md",
-    "Docker/Dockerfiles.md",
     "Docker",
     "Spring/Spring Rest",
     "Neural networks",
     "Pytorch",
     "Spring/Dependency Injection",
     "Spring",
-    "Spring Boot/Spring Data JPA",
-    "Spring Boot"
+    "Spring Boot/Spring Data JPA"
   ]
 }
