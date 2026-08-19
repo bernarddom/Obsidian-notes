@@ -1,4 +1,4 @@
-DateAudit model:
+rDateAudit model:
 ```
 @MappedSuperclass
 @EntityListeners(AuditingEntityListener.class)
